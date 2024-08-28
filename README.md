@@ -63,7 +63,7 @@ Once the application is running, you can:
 ## How It Works
 
 - **Menu Navigation**: Uses a single page view so no users navigation is required for this application.
-- **Data Storage**: An In-Memory database is created, so data persistance is scoped to the lifetime of the application.
+- **Data Storage**: An In-Memory database is created, so data persistence is scoped to the lifetime of the application.
 - **Data Access**: Interaction with the database is via Entity Framework Core.
 - **Data Controller**: Minimal APIs are used to control the CRUD operations for the data.
 - **Controller Access**: JavaScript Fetch is used to call the API in the web application.
