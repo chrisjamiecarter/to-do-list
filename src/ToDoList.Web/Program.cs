@@ -30,7 +30,7 @@ public class Program
         });
 
         builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-        
+
         var app = builder.Build();
 
         app.UseDefaultFiles();

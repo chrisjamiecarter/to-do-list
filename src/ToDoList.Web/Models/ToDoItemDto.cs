@@ -15,7 +15,7 @@ public class ToDoItemDto
 
     public ToDoItemDto()
     {
-        
+
     }
 
     public ToDoItemDto(ToDoItem entity)
